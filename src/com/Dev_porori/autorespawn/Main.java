@@ -1,7 +1,5 @@
 package com.Dev_porori.autorespawn;
 
-import java.lang.reflect.InvocationTargetException;
-
 import org.bukkit.Bukkit;
 import org.bukkit.Server;
 import org.bukkit.plugin.java.JavaPlugin;
@@ -30,27 +28,7 @@ public class Main extends JavaPlugin {
 		} catch (ClassNotFoundException e) {
 			log(ver + "(이)라는 버전은 알 수 없습니다.");
 			setEnabled(false);
-		} catch (InstantiationException e) {
-			log("오류가 발견되어 플러그인이 비활성화 됩니다.\n내용: ");
-			e.printStackTrace();
-			setEnabled(false);
-		} catch (IllegalAccessException e) {
-			log("오류가 발견되어 플러그인이 비활성화 됩니다.\n내용: ");
-			e.printStackTrace();
-			setEnabled(false);
-		} catch (IllegalArgumentException e) {
-			log("오류가 발견되어 플러그인이 비활성화 됩니다.\n내용: ");
-			e.printStackTrace();
-			setEnabled(false);
-		} catch (InvocationTargetException e) {
-			log("오류가 발견되어 플러그인이 비활성화 됩니다.\n내용: ");
-			e.printStackTrace();
-			setEnabled(false);
-		} catch (NoSuchMethodException e) {
-			log("오류가 발견되어 플러그인이 비활성화 됩니다.\n내용: ");
-			e.printStackTrace();
-			setEnabled(false);
-		} catch (SecurityException e) {
+		} catch (Exception e) {
 			log("오류가 발견되어 플러그인이 비활성화 됩니다.\n내용: ");
 			e.printStackTrace();
 			setEnabled(false);
