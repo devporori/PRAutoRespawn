@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.5.2 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.4.6 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.4.7 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.5.1 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.6.2 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.6.4 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.7.2 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.7.5 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.7.9 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.7.10 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.8 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.8.3 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.9 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.8.4 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.9.4 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.10 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.11 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.11.2 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.12 spigot.jar"/>
+	<classpathentry kind="lib" path="D:/Library/spigot/1.13 spigot.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
